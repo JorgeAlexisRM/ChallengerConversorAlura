@@ -8,7 +8,9 @@
 
 
 <h1 align="center"> ChallengerConversorAlura </h2>
-![Imagen representativa al Challenger](https://user-images.githubusercontent.com/121999643/222331414-3fbc463e-f486-442a-b285-9eeba22d701b.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/121999643/222331414-3fbc463e-f486-442a-b285-9eeba22d701b.png">
+   </p>
 
 <h2>Descripción del proyecto</h2>
 <p>Proyecto desarrollado para el Challenger de Alura "Conversor".
